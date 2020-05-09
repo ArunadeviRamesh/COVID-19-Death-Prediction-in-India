@@ -1,3 +1,5 @@
+# COVID-19-Death-Prediction-in-India
+This project is to predict number of deaths for COVID-19 in India using Linear Regression.
 # Welcome to my GitHub repository on COVID 19 Death Prediction in India using Machine Learning
 I have done this project tgis work under the guidance of Dr. R. Suganya, Associate Professor, Department of Information Technology, Thiagarajar College of Engineering Madurai, Dr.T.SenthilKumar, Associate Professor, Amrita School Of Engineering,Coimbatore and Sabarinathan , Aritificial Intelligence, working on Tokyo.
 # Objective:
